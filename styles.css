@@ -1,0 +1,97 @@
+.navbar-header {
+    background-color: blueViolet;
+}
+.jumbotron {
+    text-align: center;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    background-image: linear-gradient(rgb(171, 100, 237), rgb(211, 43, 226) );
+    background-repeat: no-repeat, no-repeat;
+    color: white !important;
+    font-family: "Times New Roman", Times, serif;
+    
+
+}
+.navbar-nav > li > a{
+    color: white !important;
+}
+.carousel-caption{
+    color:Black;
+    text-align: center ;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+.pic{
+    height: 20px;
+    width:2000px;
+}
+.jumbotron {
+    background-image: linear-gradient(rgb(171, 100, 237), rgb(211, 43, 226) );
+    background-repeat: no-repeat, no-repeat;
+    ;
+    color: white !important;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+.navbar navbar-inverse{
+    background-color: cornflowerBlue;
+}
+ 
+.black{
+    color:white;
+    font-size:50px;
+}
+
+.navbar-brand{
+    color:black
+}
+
+body{
+    font-family: "Palatino";
+}
+
+.img-circle{
+    height:750px;
+    max-width:800px;
+} 
+
+
+header{
+    padding:20px;
+}
+
+.name{
+    font-family:fantasy;
+    font-size:70px;
+    text-align:center;
+
+}
+
+.job{
+    font-family:initial;
+    font-size:35px;
+    text-align:center;
+}
+
+.mountain{
+    position:absolute;
+    height:350px;
+    width:1150px;
+    top:70%;
+    
+}
+
+.clouds{
+    position:absolute;
+    height:300px;
+    width:400px;
+    top:30%;
+}
+
+.cloud{
+    position:absolute;
+    height:300px;
+    width:400px;
+    top:47%;
+    left:58%;
+}
